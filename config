@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "upstream"]
+	url = https://github.com/anilsilwal98/couchbaseProject.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*
